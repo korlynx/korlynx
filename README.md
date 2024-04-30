@@ -13,10 +13,11 @@ Here are some ideas to get you started:
  
 - 😄 Pronouns: ...
 - 🔭 I’m currently working on 
-- 🌱 I’m looking for a cloud engineering role
--->
 
-- 🖥️ I'm currently as an Application Manager
+-->
+- 🖥️ I'm currently working as an Application Manager
+- 🌱 I’m passionate about Cloud technologies
+- 🔭 I'm actively looking for a role in Cloud Engineering
 - 📫 How to reach me: **unaichi.chinonso@gmail.com**
 - ⚡ Fun fact: I laugh alot 😄 
 

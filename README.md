@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
  
 - 😄 Pronouns: ...
-
+- 🔭 I’m currently working on 
 -->
-- 🔭 I’m currently working on [My cloud Resume](https://github.com/korlynx/cloud-resume)
+
 - 🌱 I’m looking for a cloud engineering role
-- 🖥️ I'm currently an Application Support Analyst at [BSAG](https://www.bsag.de/)
+- 🖥️ I'm currently as an Application Manager
 - 📫 How to reach me: **unaichi.chinonso@gmail.com**
 - ⚡ Fun fact: I laugh alot 😄 
 

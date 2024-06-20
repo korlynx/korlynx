@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 
 
 -->
-- 🖥️ I'm currently working as an Application Manager
+<!-- - 🖥️ I'm currently working as an Application Manager
 - 🌱 I’m passionate about Cloud technologies
-- 🔭 I'm actively looking for a role in Cloud Engineering
+- 🔭 I'm actively looking for a role in Cloud Engineering -->
 - 📫 How to reach me: **unaichi.chinonso@gmail.com**
-- ⚡ Fun fact: I laugh alot 😄 
+<!-- - ⚡ Fun fact: I laugh alot 😄  -->
 
 
 <h3 align="left">Languages and Tools:</h3>
